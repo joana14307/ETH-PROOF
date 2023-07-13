@@ -1,6 +1,6 @@
 # ETH-PROOF
 
-# Creating  token
+# Creating a new token
 
 Using Solidity
 
