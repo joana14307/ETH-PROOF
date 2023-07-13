@@ -19,8 +19,11 @@ The file should be saved with the extension.sol. MyToken.sol)
 
 # Prequisities
 Solidity version must be 0.8.18 or higher.
+
 tokenName: A string variable addressing the name of token
+
 tokenAbbrv: A string variable addressing the namme of token contraction
+
 totalSupply: The totalSupply is a set of unsigned interger variables
 
 # Mapping
