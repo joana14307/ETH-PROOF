@@ -39,7 +39,7 @@ possibly plays out the consume tasks if the _address has enough for the symbolic
 equilibriums.
 
 # Authors 
-Joana Abdulman
+Joana Abdulmanan
 8213866@ntc.edu.ph
 
 # License 
